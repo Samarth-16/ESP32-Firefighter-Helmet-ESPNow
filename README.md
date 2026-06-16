@@ -110,3 +110,12 @@ I2C Interface
 
 ```bash
 git clone https://github.com/yourusername/ESP32-Firefighter-Helmet-ESPNow.git
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Commercial use is prohibited without explicit permission from the authors.
+
+For details, visit:
+https://creativecommons.org/licenses/by-nc/4.0/
