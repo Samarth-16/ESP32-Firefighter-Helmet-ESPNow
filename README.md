@@ -1,6 +1,6 @@
 # ESP32-Based Fire Fighter Helmet Using ESP-NOW
 <p align="center">
-  <img src="Project%20Schematic.png" alt="Project Schematic" width="900">
+  <img src="Hardware/Project%20Schematic.png" alt="Project Schematic" width="900">
 </p>
 
 ## Overview
