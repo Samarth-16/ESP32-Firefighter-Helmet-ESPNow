@@ -109,7 +109,7 @@ I2C Interface
 1. Clone repository
 
 ```bash
-git clone https://github.com/yourusername/ESP32-Firefighter-Helmet-ESPNow.git
+git clone https://github.com/Samarth-16/ESP32-Firefighter-Helmet-ESPNow.git
 
 ## License
 
