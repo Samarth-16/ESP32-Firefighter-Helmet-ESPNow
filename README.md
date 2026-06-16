@@ -1,5 +1,13 @@
 # ESP32-Based Fire Fighter Helmet Using ESP-NOW
 
+# ESP32-Based Fire Fighter Helmet Using ESP-NOW Protocol
+
+<p align="center">
+  <img src="hardware/Project Schematic.png" alt="Project Schematic" width="900">
+</p>
+
+## Overview
+
 ## Overview
 
 This project is a smart firefighter helmet built using ESP32 and ESP-NOW
